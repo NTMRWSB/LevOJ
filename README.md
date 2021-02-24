@@ -1,6 +1,6 @@
 # 南京信息工程大学 LevOJ 计软课作业解决方案
 ## 说明
-本项目是[LevOJ](https://cpc.nuist.edu.cn/) ‘2020-2021(1)程序设计基础’和'[2020-2021(2)程序设计实践](https://cpc.nuist.edu.cn/course/53)'作业的解决方案  
+本项目是[LevOJ](https://cpc.nuist.edu.cn/) ‘[2020-2021(1)程序设计基础](https://cpc.nuist.edu.cn/course/52)’和'[2020-2021(2)程序设计实践](https://cpc.nuist.edu.cn/course/53)'作业的解决方案  
 ~~作业不会不要紧，我可以偷偷给你代码。不要让别人看见:wink:。~~
 
 ## 使用须知
