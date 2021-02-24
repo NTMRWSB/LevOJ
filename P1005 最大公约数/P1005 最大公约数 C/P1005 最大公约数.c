@@ -15,11 +15,6 @@ int main()
 			a = b;
 			b = d;
 		}
-		else
-		{
-			a = a;
-			b = b;
-		}
 		c = b/a;
 		if ((int)c == c)
 		{
