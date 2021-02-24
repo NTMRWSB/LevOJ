@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1052 每月的天数 C", "P1052 每月的天数 C.vcxproj", "{BDF1B390-11A2-43D4-85EB-045020156454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF1B390-11A2-43D4-85EB-045020156454}.Debug|x64.ActiveCfg = Debug|x64
+		{BDF1B390-11A2-43D4-85EB-045020156454}.Debug|x64.Build.0 = Debug|x64
+		{BDF1B390-11A2-43D4-85EB-045020156454}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDF1B390-11A2-43D4-85EB-045020156454}.Debug|x86.Build.0 = Debug|Win32
+		{BDF1B390-11A2-43D4-85EB-045020156454}.Release|x64.ActiveCfg = Release|x64
+		{BDF1B390-11A2-43D4-85EB-045020156454}.Release|x64.Build.0 = Release|x64
+		{BDF1B390-11A2-43D4-85EB-045020156454}.Release|x86.ActiveCfg = Release|Win32
+		{BDF1B390-11A2-43D4-85EB-045020156454}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {040A2751-CA4F-4546-BD9E-078B2D002E35}
+	EndGlobalSection
+EndGlobal

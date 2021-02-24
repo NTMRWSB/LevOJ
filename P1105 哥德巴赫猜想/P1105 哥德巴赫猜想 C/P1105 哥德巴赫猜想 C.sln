@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1105 哥德巴赫猜想 C", "P1105 哥德巴赫猜想 C.vcxproj", "{422D248A-E40A-4007-891A-993A2F9E9F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422D248A-E40A-4007-891A-993A2F9E9F8A}.Debug|x64.ActiveCfg = Debug|x64
+		{422D248A-E40A-4007-891A-993A2F9E9F8A}.Debug|x64.Build.0 = Debug|x64
+		{422D248A-E40A-4007-891A-993A2F9E9F8A}.Debug|x86.ActiveCfg = Debug|Win32
+		{422D248A-E40A-4007-891A-993A2F9E9F8A}.Debug|x86.Build.0 = Debug|Win32
+		{422D248A-E40A-4007-891A-993A2F9E9F8A}.Release|x64.ActiveCfg = Release|x64
+		{422D248A-E40A-4007-891A-993A2F9E9F8A}.Release|x64.Build.0 = Release|x64
+		{422D248A-E40A-4007-891A-993A2F9E9F8A}.Release|x86.ActiveCfg = Release|Win32
+		{422D248A-E40A-4007-891A-993A2F9E9F8A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE85E6CC-07CB-4BC8-8584-18B2C36AF8FA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1243 青奥入场 C", "P1243 青奥入场 C.vcxproj", "{EE9FDF86-9EC5-4AB0-93F0-5307070B7B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE9FDF86-9EC5-4AB0-93F0-5307070B7B54}.Debug|x64.ActiveCfg = Debug|x64
+		{EE9FDF86-9EC5-4AB0-93F0-5307070B7B54}.Debug|x64.Build.0 = Debug|x64
+		{EE9FDF86-9EC5-4AB0-93F0-5307070B7B54}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE9FDF86-9EC5-4AB0-93F0-5307070B7B54}.Debug|x86.Build.0 = Debug|Win32
+		{EE9FDF86-9EC5-4AB0-93F0-5307070B7B54}.Release|x64.ActiveCfg = Release|x64
+		{EE9FDF86-9EC5-4AB0-93F0-5307070B7B54}.Release|x64.Build.0 = Release|x64
+		{EE9FDF86-9EC5-4AB0-93F0-5307070B7B54}.Release|x86.ActiveCfg = Release|Win32
+		{EE9FDF86-9EC5-4AB0-93F0-5307070B7B54}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AF24BFB-C2F0-47B0-96CB-1007828B3DF1}
+	EndGlobalSection
+EndGlobal
