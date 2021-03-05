@@ -8,6 +8,8 @@ using namespace std;
 int mypow(int, int);
 int superPow(int, string);
 
+//Ô­ÐÍ:Diffie-Hellman Key Exchange
+
 int main()
 {
 	int a;
