@@ -1,6 +1,5 @@
 #include<iostream>
 #include<string>
-#include<stack>
 #include<cstdio>
 #include<cstring>
 #include<cstdlib>
@@ -8,7 +7,7 @@
 using namespace std;
 
 int AnyNumSysToDec(int, string);
-string DecToAppointedNumSys(int, int);
+void DecToAppointedNumSys(int, int);
 
 int main()
 {
@@ -18,19 +17,30 @@ int main()
 	{
 		if (p == 0)
 			return 0;
-		cout << DecToAppointedNumSys(r, p) << endl;
+		DecToAppointedNumSys(r, AnyNumSysToDec(p, n));
+		cout << endl;
 	}
 	return 0;
 }
 
 int AnyNumSysToDec(int b, string n)
 {
-	int ans = 0;
-
+	int ans = 0, i = 0;
+	while (n.size() != i)
+	{
+		ans *= b;
+		if (n[i] >= '0' && n[i] <= '9')
+			ans += n[i] - '0';
+		else if (n[i] >= 'A' && n[i] <= 'Z')
+			ans += n[i] - 55;
+		else if (n[i] >= 'a' && n[i] <= 'z')
+			ans += n[i] - 87;
+		i++;
+	}
 	return ans;
 }
 
-string DecToAppointedNumSys(int b, int n)
+void DecToAppointedNumSys(int b, int n)
 {
 	int m = 0, temp, s[1000];
 	while (n != 0) 
@@ -44,10 +54,8 @@ string DecToAppointedNumSys(int b, int n)
 	for (int k = m; k >= 1; k--)
 	{
 		if (s[k] >= 10)
-			s[k] += 55;
+			cout << (char)(s[k] + 55);
 		else
-			s[k] += 48;
+			cout << s[k];
 	}
-	string ans(&s[0], &s[m]);
-	return ans;
 }
