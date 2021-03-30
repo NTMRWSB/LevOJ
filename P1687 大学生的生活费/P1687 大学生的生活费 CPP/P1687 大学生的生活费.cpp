@@ -9,13 +9,16 @@ using namespace std;
 int main()
 {
 	int m;
-	double deposit[48];
+	double deposit;
 	while (cin >> m)
 	{
-		deposit[47] = (double)m;
-		for (int i = 47; i > 0; i--)
-			deposit[i - 1] = ((double)m + deposit[i]) / (1 + Rate / 12);
-		printf("%.2f\n", deposit[0]);
+		deposit = 0;
+		for (int i = 48; i > 0; i--)
+		{
+			deposit += m;
+			deposit /= 1 + (Rate / 12);
+		}
+		printf("%.2f\n", deposit);
 	}
 	return 0;
 }
