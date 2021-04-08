@@ -10,7 +10,7 @@ int main()
     int count = 0;
     int s1, s2, s3, s4, s5;  //From 0 to the end,traverse.
     int sum;
-    int sum1, sum2, sum3, sum4; //Sun at each stage
+    int sum1, sum2, sum3, sum4; //Sum at each stage
 	cin >> t;
     while (t--)
 	{
