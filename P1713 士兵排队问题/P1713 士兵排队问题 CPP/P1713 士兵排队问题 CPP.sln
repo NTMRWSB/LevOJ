@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1713 士兵排队问题 CPP", "P1713 士兵排队问题 CPP.vcxproj", "{73F14FF0-6C6C-49A2-84DD-B9F8B78F5B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F14FF0-6C6C-49A2-84DD-B9F8B78F5B29}.Debug|x64.ActiveCfg = Debug|x64
+		{73F14FF0-6C6C-49A2-84DD-B9F8B78F5B29}.Debug|x64.Build.0 = Debug|x64
+		{73F14FF0-6C6C-49A2-84DD-B9F8B78F5B29}.Debug|x86.ActiveCfg = Debug|Win32
+		{73F14FF0-6C6C-49A2-84DD-B9F8B78F5B29}.Debug|x86.Build.0 = Debug|Win32
+		{73F14FF0-6C6C-49A2-84DD-B9F8B78F5B29}.Release|x64.ActiveCfg = Release|x64
+		{73F14FF0-6C6C-49A2-84DD-B9F8B78F5B29}.Release|x64.Build.0 = Release|x64
+		{73F14FF0-6C6C-49A2-84DD-B9F8B78F5B29}.Release|x86.ActiveCfg = Release|Win32
+		{73F14FF0-6C6C-49A2-84DD-B9F8B78F5B29}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3650FC1C-DD9C-4420-AFEA-FBC2659D817A}
+	EndGlobalSection
+EndGlobal
