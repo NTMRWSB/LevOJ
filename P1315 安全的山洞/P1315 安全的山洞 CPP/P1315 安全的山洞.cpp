@@ -36,7 +36,7 @@ int main()
                     q = p->next;
                 }
                 p->next = q->next;
-                cout << q->data << " ";
+                //cout << q->data << " ";
                 free(q);
                 q = p->next;
             }
@@ -49,7 +49,7 @@ int main()
                 }
                 p = q->next;
                 q->next = p->next;
-                cout<<p->data<<" ";
+                //cout << p->data << " ";
                 free(p);
                 q = q->next;
             }
