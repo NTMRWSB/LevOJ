@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1398 回转折叠矩阵 CPP", "P1398 回转折叠矩阵 CPP.vcxproj", "{9A9529AD-8D23-44C1-84E8-C0CD6C94AAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9529AD-8D23-44C1-84E8-C0CD6C94AAED}.Debug|x64.ActiveCfg = Debug|x64
+		{9A9529AD-8D23-44C1-84E8-C0CD6C94AAED}.Debug|x64.Build.0 = Debug|x64
+		{9A9529AD-8D23-44C1-84E8-C0CD6C94AAED}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A9529AD-8D23-44C1-84E8-C0CD6C94AAED}.Debug|x86.Build.0 = Debug|Win32
+		{9A9529AD-8D23-44C1-84E8-C0CD6C94AAED}.Release|x64.ActiveCfg = Release|x64
+		{9A9529AD-8D23-44C1-84E8-C0CD6C94AAED}.Release|x64.Build.0 = Release|x64
+		{9A9529AD-8D23-44C1-84E8-C0CD6C94AAED}.Release|x86.ActiveCfg = Release|Win32
+		{9A9529AD-8D23-44C1-84E8-C0CD6C94AAED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A12A02-4E10-4C1B-A0CA-D4E0B8453587}
+	EndGlobalSection
+EndGlobal
